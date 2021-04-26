@@ -11,7 +11,7 @@
         }    
             
         System.out.println("Original string: " + string);    
-        //Displays the reverse of given string    
+        System.out.println("Display the string in reverse order");  
         System.out.println("Reverse of given string: " + reversedStr);    
     }    
 }    
